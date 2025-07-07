@@ -1,10 +1,13 @@
 **Temperature Converter**
+
+
 Developed By:
 Nikita Patil
 Computer Engineering Student
 
 
  **Project Overview**
+ 
  
 This project is a simple, interactive temperature converter built using HTML, CSS, and JavaScript. It allows users to quickly convert temperatures between Celsius and Fahrenheit with a clean interface and responsive layout.
 
@@ -39,4 +42,6 @@ Button to perform the conversion
 | Navigation            | HTML/CSS             | Fixed-top navbar that links to in-page section IDs                             |
 | Documentation         | Markdown (README.md) | For GitHub documentation and portfolio description                             |
 
+
+<img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/e57c6191-d563-453e-a7b6-b86f0b2b6848" />
 
